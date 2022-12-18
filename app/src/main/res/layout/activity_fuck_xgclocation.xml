@@ -177,7 +177,8 @@
                 android:layout_height="wrap_content"
                 android:layout_marginHorizontal="21dp"
                 android:layout_marginTop="36px"
-                android:background="@drawable/location_card_bg">
+                android:background="@drawable/location_card_bg"
+                android:visibility="gone">
 
                 <ImageView
                     android:id="@+id/iv_loc_track_card"
